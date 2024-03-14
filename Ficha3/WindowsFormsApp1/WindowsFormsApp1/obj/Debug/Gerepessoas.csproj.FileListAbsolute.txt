@@ -1,0 +1,10 @@
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gerepessoas.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gerepessoas.csproj.GenerateResource.cache
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gerepessoas.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\guilh\Desktop\2 semestre\DA\Ficha3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

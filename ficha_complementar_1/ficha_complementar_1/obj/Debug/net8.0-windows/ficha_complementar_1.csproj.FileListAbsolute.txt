@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\bin\Debug\net8.0-windows\ficha_complementar_1.exe
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\bin\Debug\net8.0-windows\ficha_complementar_1.deps.json
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\bin\Debug\net8.0-windows\ficha_complementar_1.runtimeconfig.json
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\bin\Debug\net8.0-windows\ficha_complementar_1.dll
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\bin\Debug\net8.0-windows\ficha_complementar_1.pdb
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.Form1.resources
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.csproj.GenerateResource.cache
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.AssemblyInfo.cs
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.dll
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\refint\ficha_complementar_1.dll
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.pdb
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ficha_complementar_1.genruntimeconfig.cache
+C:\Users\guilh\Desktop\2 semestre\DA\ficha_complementar_1\ficha_complementar_1\obj\Debug\net8.0-windows\ref\ficha_complementar_1.dll
