@@ -29,7 +29,7 @@ namespace WindowsFormsApp1
             //Verifica se a data atual e o mes atual é o mesmo de hoje e manda uma mensagem de parabens
             if (DateTime.Now.Month == DataNascimento.Month && DateTime.Now.Day == DataNascimento.Day)
             {
-                Console.WriteLine("🎂 Parabéns 🎂");
+                System.Windows.Forms.MessageBox.Show("Parabéns " + Nome + "!!", "Parabéns", System.Windows.Forms.MessageBoxButtons.OK, System.Windows.Forms.MessageBoxIcon.Information);
             }
             //Verifica se a data de nascimento é maior que a data atual e retorna a idade
             if (DateTime.Now.Month < DataNascimento.Month || (DateTime.Now.Month == DataNascimento.Month && DateTime.Now.Day < DataNascimento.Day))

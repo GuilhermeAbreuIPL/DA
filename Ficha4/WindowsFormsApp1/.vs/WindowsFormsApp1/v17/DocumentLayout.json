@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\windowsformsapp1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|solutionrelative:windowsformsapp1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|c:\\users\\guilh\\desktop\\2 semestre\\da\\ficha4\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|c:\\users\\guilh\\desktop\\2 semestre\\da\\ficha4\\windowsformsapp1\\windowsformsapp1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|solutionrelative:windowsformsapp1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D36117AC-F48A-4599-B784-40522B55C30C}|WindowsFormsApp1\\Gerepessoas.csproj|C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\Professor.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T10:11:25.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T10:11:25.439Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\AlunoEspecial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T10:12:21.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T10:12:21.586Z"
             },
             {
               "$type": "Document",
@@ -76,25 +74,24 @@
               "RelativeToolTip": "WindowsFormsApp1\\Aluno.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T10:04:19.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T10:04:19.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\WindowsFormsApp1\\Pessoa.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Pessoa.cs",
               "ToolTip": "C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\WindowsFormsApp1\\Pessoa.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Pessoa.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowDsAAAAIAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T08:19:53.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Desktop\\2 semestre\\DA\\Ficha4\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
